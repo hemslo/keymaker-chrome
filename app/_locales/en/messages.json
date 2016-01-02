@@ -3,8 +3,16 @@
     "message": "Keymaker",
     "description": "The name of the application"
   },
+  "appShortName": {
+    "message": "Kyemaker",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
   "appDescription": {
-    "message": "Keymaker Chrome Extension",
+    "message": "Secure password transformer.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Keymaker",
     "description": "The description of the application"
   }
 }
